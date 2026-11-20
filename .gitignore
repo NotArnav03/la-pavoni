@@ -1,0 +1,5 @@
+# >100 MB, over GitHub's file limit; re-download with:
+#   yt-dlp -f "bv*[height<=1080]+ba/b" -o video/video.mp4 https://www.youtube.com/watch?v=J31RKk_7p68
+video/video.mp4
+__pycache__/
+*.pyc

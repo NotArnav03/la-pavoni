@@ -1,0 +1,71 @@
+Item,Qty,Description,Material / finish,Key dimensions (mm),Confidence,Video ref
+1,1,Boiler shell,"Brass CuZn37 (CW508L) tube, Cu/Ni/Cr plated","OD 80 [D] x 1.5, L 184 (Z64-248); holes Ø14 port, 2x Ø12.5 sight glass",D/E,30:31
+2,1,Shoulder / neck casting,"Hot-stamped brass CW617N, brazed to 1, chromed","Socket Ø80.2x8, cone Ø83->Ø48, neck Ø44 x10, int. M38x1.5 x12; bosses M12x1.5 (SV), M12x1 (steam)",V/E,30:31
+3,1,Boiler foot casting (flare + spigot),"Brass CW617N, brazed to 1, chromed flare","Spigot M80x1.25 x20, bore 68, flare Ø92 -> Ø83, socket Ø80.2 x7, L 29",D/V/E,23:06
+4,1,"Ring nut, 3 ears","Brass CW617N, raw","M80x1.25-6H, OD 98, T 12, 3 ears R8 on PCD 104 tapped M6",D/V,23:13
+5,2,Boiler/base gasket (upper + lower),"Fibre AFM34 (aramid/NBR), food-safe; orig. 1979 fibre - treat as possibly asbestos",93 x 80 x 2 (La Pavoni 362019),D,23:06
+6,1,"Heating element 200 W + 800 W, 220 V","Cu sheath Ø8, brass flange 8 thick, ceramic terminals","Flange Ø84, 3 ears Ø6.5 on PCD 104; coils Ø52 x6 turns + Ø30 x4 turns, stack 72",D/V,23:45
+7,1,"Heating element gasket (flat, brass-element type)",Fibre AFM34,"82 x 68 x 2 (La Pavoni 362018, 1959-96)",D,23:40
+8,3,Element screw,"Steel 8.8 zinc-plated, socket head ISO 4762",M6 x 16 (later diagrams: M5x12 - check ring nut),D/E,23:55
+9,1,Cap insert,Brass CW614N bar,"M38x1.5 x16, flange Ø44 x3, spigot Ø20 x6 M8 ↧14, Ø6.8 thru",V/E,29:13
+10,1,Cap gasket,Silicone VMQ 60 ShA (orig. black rubber),44 x 38.5 x 2,E,29:14
+11,1,"Cap knob, 6-lobe","Birdseye maple, hard-wax oil (orig. black phenolic)","Ø58 over 6 lobes x20 + cone Ø28-38 x27; bores Ø20.5x6, Ø8.5x33, cbore Ø13.5x8",V,30:31
+12,1,Cap screw,"Stainless A2-70, ISO 4762","M8 x 35, head Ø13 x 8",V/E,29:17
+13,1,Safety-valve body,"Brass CW614N, chromed","M12x1.5 x8, hex AF14 x6, M10x1 x8; seat Ø4 / Ø6.5 x14",D/E,28:05
+14,1,Safety valve ball,Stainless AISI 440C,dia. ~6,V/E,28:03
+15,1,Safety-valve spring,Stainless AISI 302 wire Ø0.8,"OD 5.2, 7 coils, free L 13",V/E,28:03
+16,1,Safety-valve cup + drain tube,Brass Cr + Cu tube Ø5x0.5,"Cup Ø22 x24, M10x1 ↧8; tube developed 215 (bend table)",V/E,28:11
+17,1,Sight-glass tube,Borosilicate glass 3.3,OD 12 x ID 9 x L 123 (blocks 125 c/c),V/E,25:17
+18,1,Glass guard (slotted sleeve),"Brass tube, chromed","OD 16 x ID 14.4 x L 97, slot 8 x 80",V/E,04:10
+19,2,Sight-glass block,"Brass CW614N, chromed","18 sq. body; spigot M12x1 x14, Ø5 passage; gland boss M16x1 x8; glass bore Ø12.2 ↧9; plug M10x1",D/V/E,07:00
+20,2,Glass retainer (hex gland nut),"Brass, chromed","M16x1, hex 17",V/E,07:00
+21,2,Lock nut D12,Brass,"M12x1, AF17 x5",D/E,06:30
+22,2,Glass seal,Silicone VMQ food grade (square-section),ID 12 x OD 17 x 4,E,25:03
+23,4,Spigot washer,PTFE + brass (parts list),18 x 12 x 1,D/V,22:10
+24,1,"Plug, slotted (top + item 70 bottom)","Brass, chromed","M10x1 x6, head Ø14 x3, fibre washer 10x14x1",V/E,25:41
+25,1,Steam-valve body (T),"Brass CW614N, chromed","M12x1 x8 | AF17 x6 | Ø15 x24 | M12x1 x10; bores Ø4, M8x1, M12x1; branch Ø14 M10x1",D/V/E,28:26
+26,1,Steam-valve stem (needle),Stainless AISI 303,"Needle 60°, Ø5 x10, M8x1 x14, Ø6 x34, pin hole Ø2.5 @57; L 62",V/E,28:36
+27,1,Packing nut,"Brass, chromed","M12x1 x8, AF14 x5, bore Ø6.2",D/E,02:15
+28,1,Stem packing,EPDM 70 ShA,11 x 6 x 6,V/E,02:15
+29,2,Stem washer,Brass,11 x 6.2 x 0.8,V,02:15
+30,1,"Steam knob, 6-lobe",Orig. phenolic; restomod birdseye maple,"dia. 37 lobes, L 22",V,30:31
+31,1,Knob pin,Stainless spring pin ISO 8752,Ø2.5 x 30,E,03:48
+32,1,Steam wand,"Brass tube Ø8 x 1, chromed","5 points, bend R12, developed per bend table",V/E,28:17
+33,1,Wand union nut,"Brass, chromed","M10x1, AF14 x8",V/E,28:33
+34,1,"Steam tip, single hole, ball end","Brass, chromed","dia. 9 ball, hole 1.2",V/E,28:22
+35,1,Group body,"Hot-stamped brass CW617N, Cu/Ni/Cr","Bell Ø72 x20, skirt Ø62.5 x12, bore Ø44 H8, body Ø50, column 14x16, flange 5x26x48 2x Ø6.4 @38",D/V/E,25:48
+36,1,Piston,Brass CW614N bar,"Ø43.9 f7 x30, 2 grooves Ø36 x5.6, M8 ↧16",D/E,26:06
+37,2,Piston seal (lip / V-ring),Silicone VMQ 70 ShA or EPDM; orig. black NBR,44 x 36 x 5.5 (some kits 44 x 33 x 5.5),D,26:09
+38,1,Piston rod,Steel hard chrome (or AISI 303),M8x14 | Ø10 f7 x39 | Ø10 x12 (pin hole Ø6.1 @59.1) | Ø10 x19 | M8x14; L 98,V/E,03:20
+39,1,Rod seal (lip),PTFE / silicone,20 x 10 x 4,D/E,25:48
+40,1,Rod washer,Stainless AISI 304,20 x 10.5 x 1,D/E,25:48
+41,1,Circlip,"Spring steel, DIN 472",20 x 1 (groove Ø21 x 1.1),D,02:37
+42,1,Group gasket (portafilter seal),Silicone VMQ (orig. NBR 70),57.7 x 47 x 5.3 (OR ~58),D,26:39
+43,1,"Shower screen (cup, mesh)",Stainless AISI 304,dia. 52 (IMS PA200IM52 fits),D,26:41
+44,1,Port seal,Annealed copper (alt. OR 3112 EPDM),16 x 8.2 x 1.5,D/V,26:52
+45,1,L-tube (boiler pick-up),Brass tube Ø8 x 1,"4 points, bend R10, down to Z140 (bend table)",V/E,27:03
+46,2,Group bolt,"Stainless A2-70, ISO 4017","M6 x 10, AF10, 6 Nm",D/V,27:13
+47,1,Check nut,"Brass, chromed, DIN 439","M8, AF13 x6",D/E,27:20
+48,1,Acorn nut,"Brass, chromed, DIN 1587","M8, AF13, H 15",D,27:24
+49,1,Lever (2 cheeks + boss + rod),"Steel, chromed","Cheeks 3 thick, 18 gap, pins 27.6 c/c; boss Ø16 x15; rod Ø11; 272 fulcrum to end",V/E,30:31
+50,2,Lever pin,Stainless AISI 303,"Ø6 h8 x 34, 2 grooves Ø5 x0.7",D/V,27:31
+51,4,E-clip,"Spring steel / stainless, DIN 6799",size 5 (shaft 6-8),D,27:31
+52,1,Roller,Brass CW614N,"Ø10 f7 x16, bore Ø6.05 (in column bore Ø10.1)",D/E,25:48
+53,1,Lever handle,Birdseye maple (orig. black ribbed ABS),"Ø20->22 x 101, M8 insert ↧25",V,30:31
+54,1,Portafilter body,"Brass, chromed",Ø56->60 x24 + boss Ø26 x4 (M10x1); ID 52; 2 lugs 8x4x3.5; handle boss M8,D/V,30:05
+55,1,Double spout,"Brass, chromed","M10x1 x6 + body Ø14->12 x8, 2 outlets Ø4, 30 c/c",V,29:52
+56,1,"Basket, double","Stainless AISI 304, 0.6","49 mm, depth 24",D/E,26:39
+57,1,"Basket, single","Stainless AISI 304, 0.6","49 mm, depth 18",D/E,07:11
+58,1,Basket retaining spring,Stainless spring wire,wire dia. 1,V,07:11
+59,1,Handle stud,"Stainless A2, threaded rod (blue thread-lock patch)",M8 x 75,V/E,29:53
+60,1,Portafilter handle,Birdseye maple (orig. black PP),"Ø22->24 x 100, M8 insert ↧60",V,30:05
+61,1,Base (deep-drawn shell),"Steel DC04 1.0 mm; orig. hammer-bronze paint, restomod RAL 6027 powder","270 x 180 (rear) / 170 (front) x 60, boiler hole 81 @ X70",D/V/E,07:19
+62,1,Drip grid,"Stainless AISI 304, 0.8, perforated","141 x 112, ~70 holes dia. 8, X99-240",V,30:23
+63,1,Base bottom cover / tray,Black rubber SBR/NR 60 ShA,"274 x 184, T 3, lip 12",V/E,19:52
+64,1,"Badge, round 'la Pavoni'","Enamelled/aluminium badge, 2 pins","dia. 38, front face Y-30 Z33",V,30:39
+65,1,"Switch, 2-gang rocker, illuminated (I red / II white)","PA66 housing, 250 V 16 A, 6.3 tabs",Cut-out 30 x 22 at X67 Z30,V,30:54
+66,1,Cable gland,Orig. black PA bushing; restomod nickel-plated brass,M16x1.5,V/E,24:10
+67,1,Mains cord,Orig. H05RR-F 3G1.0 + Schuko; restomod white H05VV-F,"3 x 1.0 mm2, L 1.5 m",V,20:37
+69,1,Boiler boss / pad (group joint),"Brass CW617N, Ag-brazed to shell","26 x 48 x 8-10, R40 seat, 2x M6 ↧6 @38 c/c, port Ø6/Ø8 H7, recess Ø16x1.2",V/E,26:52
+70,1,"Plug, slotted (bottom)","Brass, chromed","M10x1 x6, head Ø14 x3 (= item 24)",V/E,25:41
+68,1,Internal wiring set,"Silicone/glass-fibre braid 1.0 mm2, 180 C+",Insulated 6.3 spade + M6 ring,V,20:30
